@@ -1,12 +1,58 @@
-# Hostel-Management-System
-This Hostel Management System is designed to ease the workflow in universities and colleges so as to make the hostel allocation fast and less complex. 
-The system users have 2 types of roles which are the Administrator(Warden) and Students. 
-Both users must log in with their apt login credentials to gain access to the features and functionalities of the application. 
-The Administrator has the privilege to allocate and manage the rooms to the students applying as per their requests.
-While Students on the other hand, as logically obvious, can register and obviously raise a request for the allotment of the room. 
-This Hostel Management System allows the admin to manage the list of hostel rooms, and student requests. 
-The admin must populate first the list of rooms in the system, and students have to raise a request. 
-Once that been done, the proctor can simply use the assign_room feature to assign the rooms on the first-come-first-serve bases. 
-The system was developed with user-friendly features and. 
-It can help the college management to efficiently and effectively manage the collections and account records.
+# JIIT Hostel Management System
 
+## Overview
+
+The JIIT Hostel Management System is a software solution designed to streamline and manage the hostel allocation process for universities and colleges. The system caters to the needs of both administrators (wardens) and students, providing a user-friendly interface for efficient room allocation.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Features](#features)
+- [Usage](#usage)
+- [Problem Statement and Objectives](#problem-statement-and-objectives)
+- [Abstract](#abstract)
+
+## Installation
+
+To use the JIIT Hostel Management System, follow these steps:
+
+1. Clone the repository.
+2. Compile the source code.
+3. Run the executable file.
+
+## Features
+
+### Administrator (Warden)
+
+- Add available rooms to the system.
+- View all available rooms.
+- View assigned rooms.
+- View room requests.
+- Assign rooms to students.
+- Check-in students.
+- View the list of students who have checked in.
+
+### Student
+
+- Request a room.
+- Check room allotment status.
+
+## Usage
+
+1. Launch the application.
+2. Choose your role (1 for Warden, 2 for Student).
+3. If Warden, enter the provided credentials.
+4. Navigate the menus to perform various tasks.
+
+## Problem Statement and Objectives
+
+The hostel management system addresses the challenges faced by colleges in efficiently managing student housing. The primary objectives include:
+
+- Automating hostel allocation processes.
+- Improving the efficiency of logistics management.
+- Adapting to the growing number of students.
+- Enhancing the working efficiency of the management team.
+
+## Abstract
+
+The Hostel Management System simplifies workflow in educational institutions, providing a seamless solution for hostel allocation. The system is designed with two user roles: Administrator (Warden) and Student. It leverages modern information technology to manage room allocations, requests, and student data. The Administrator has the authority to manage available rooms, assign rooms to students, and monitor room requests. Students can request rooms and check their allotment status. The system aims to improve the overall efficiency of hostel management.
